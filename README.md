@@ -4,6 +4,8 @@ SpatialEmbedding + Detail-Branch + Feature Fusion with Cross-Attention
 
 Pytorch implementation of spatial embdding based instance segmentation with A1 of CVPPP2017. It utilizes detail-branch of BiSeNetV2 to enhance the feature representation of encoder. Feature fusion is performed by cross-attention which is based on Restormer.
 
+My paper 'A study on the Performance Improvement of Small Local Regions in Instance Segmentation' was submitted to 'Autumn Annual Conference of IEIE, 2022'(https://conf.theieie.org/2022f/).
+
 <br/>
 
 ## Usage (for CVPPP2017)
