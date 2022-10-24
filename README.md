@@ -34,8 +34,13 @@ Pytorch implementation of spatial embdding based instance segmentation with A1 o
 
 | Model | Mean SBD | Dic | 
 | :----------- | :------------: | ------------: | 
-|BranchedBiSeNetV2(detail-branch x) | 0.868 | 0.857 |  
+|1.BranchedBiSeNetV2 (detail-branch x) | 0.868 | 0.857 |  
+|2.BranchedBiSeNetV2 (detail-branch o & BGA) | 0.876 | 0.821 |
+|3.BranchedBiSeNetV2_CA (detail-branch 0 & CA) | 0.884 | 0.643 |  
 
+![image](https://user-images.githubusercontent.com/44194558/197446790-c94bbf6c-03fe-416c-8bd1-a520c354dd56.png)
+
+<br/>
 
 
 ## References
