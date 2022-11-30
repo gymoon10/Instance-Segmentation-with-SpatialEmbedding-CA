@@ -18,7 +18,7 @@ My paper 'A study on the Performance Improvement of Small Local Regions in Insta
 
 4. evaluate the inference output with `evaluation.py`
 
-**If you want to know the Davy Neven's original spaitial embedding paper, see `criterions/my_loss_cvppp.py` & `utils/utils_cvppp.py`**
+**If you want to know the Davy Neven's original spaitial embedding paper, see `criterions/my_loss_cvppp.py` & `utils/utils_cvppp.py`. I added some explanations about the code.**
 
 <br/>
 
